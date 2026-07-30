@@ -30,7 +30,7 @@ Utiliza **JPA/Hibernate**, **MapStruct** para mapeamento de DTOs e tratamento de
 ![GET busca tarefa pelo email](docs/GET_busca_tarefa_pelo_email.png)
 
 ### POST - Adicionar nova tarefa
-![POST adicionando tarefa](docs/Post_adicionando_tarefas.png)
+![POST adicionando tarefa](docs/Post_adicionandoTarefas.png)
 
 ### PUT - Atualizar tarefa
 ![PUT atualizar tarefa](docs/PUT_atualizar_tarefa.png)
