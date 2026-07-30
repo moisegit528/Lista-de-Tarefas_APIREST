@@ -20,4 +20,26 @@ Utiliza **JPA/Hibernate**, **MapStruct** para mapeamento de DTOs e tratamento de
 - Listar tarefas (GET)
 - Atualizar tarefa (PUT)
 - Deletar tarefa (DELETE)
->>>>>>> 64d9712c3346c41383c85a8a2a1d615183188fad
+
+  ## 🧪 Testes no Postman
+
+### GET - Listar todas as tarefas
+![GET lista de tarefas](docs/GET_lista_de_tarefas.png)
+
+### GET - Buscar tarefa pelo e-mail
+![GET busca tarefa pelo email](docs/GET_busca_tarefa_pelo_email.png)
+
+### POST - Adicionar nova tarefa
+![POST adicionando tarefa](docs/Post_adicionando_tarefas.png)
+
+### PUT - Atualizar tarefa
+![PUT atualizar tarefa](docs/PUT_atualizar_tarefa.png)
+
+### DELETE - Apagar tarefa
+![DELETE apagando tarefa](docs/DELETE_apagando_tarefa.png)
+
+---
+
+## 🗄️ Banco de Dados MySQL
+Essas imagens mostram o banco de dados sendo atualizado conforme as requisições da API.
+
